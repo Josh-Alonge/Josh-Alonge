@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh! <br/><a href="[https://github.com/Josh-Alonge]">Programmer</a>, <a href="linkedin.com/in/oluwatimilehin-josh-alonge-024a09240">Junior Studying Electrical and Computer Engineering and Robotics at CMU</a>,</h1>
 
-<h2>👨‍💻 Full StacK Web Development Projects:</h2>
+<!-- <h2>👨‍💻 Full StacK Web Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
